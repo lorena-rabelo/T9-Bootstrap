@@ -27,6 +27,11 @@ a:hover {
   border-bottom: 1px solid rgb(216, 209, 209);
 }
 
+.sobre-container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
 .texto-footer {
   font-size: 14px;
   padding: 15px 0;
